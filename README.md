@@ -1,4 +1,4 @@
-# Programacion-con-ai
+# Programación-con-ai
 
 ## **Introducción a la Programación**
 
@@ -54,61 +54,125 @@
 - **Curso: Programación desde cero con Inteligencia Artificial (Ed)**##
   * https://www.youtube.com/watch?v=8b6KecIzcQA&t=2513s
   * https://ed.team/cursos/programacion
- 
- 
+
+
 ## **Fundamentos para la Programación con IA**
 
 - **Fundamentos de Ingeniería de Software**
   * https://platzi.com/cursos/ingenieria/
   * https://ed.team/cursos/tecnologia-computadoras
   * https://ed.team/cursos/tecnologia-programacion-2022
-  
-- **Conceptos Básicos de Programación (anaxia)**....
-  <!--Elaborado en claude.ai y gemini.google.com-->
 
-- **Conceptos Básicos de Programación Web (anaxia)**....
-  <!--Elaborado en claude.ai y gemini.google.com-->
+- **Lógica de programación**
+  * https://ed.team/cursos/logica
+  * https://ed.team/cursos/algoritmos
+  * https://ed.team/cursos/paradigmas
+  * https://ed.team/cursos/patrones-i
+  * https://ed.team/cursos/patrones-ii
+  * https://ed.team/cursos/patrones-iii
+    
+- **Conceptos de Programación**
+  * Conceptos Básicos de Programación (anaxia)....
+    <!--Elaborado en claude.ai y gemini.google.com-->
+  * Conceptos Básicos de Programación Web (anaxia)....
+    <!--Elaborado en claude.ai y gemini.google.com-->
+  * Conceptos Básicos de Programación de Apps (anaxia)....
+    <!--Elaborado en claude.ai y gemini.google.com-->
 
-- **Conceptos Básicos de Programación de Apps (anaxia)**....
-  <!--Elaborado en claude.ai y gemini.google.com-->
 
-- **Introducción a HTML**
-  * Buenas prácticas en HTML (anaxia) <!--Elaborado en claude.ai y gemini.google.com-->
+## **Herramienta de Programación**
+- **VS Code**
+  *
+- **Bash**
+  *
+- **Git**
+  * https://ed.team/cursos/git
   * 
- 
-- **Introducción a CSS**
-- **Introducción a JavaScript**
-- **Introducción a Bases de Datos**
-- **Introducción a Python**
-- **Introducción a java**
-- **Introducción a **
-- **Introducción a **
-- **Introducción a **
-
-
-## **Herramientas de Programación**
-- Bash y Zsh
-- VS Code
-- Git y GitHub
-- Docker
+- **GitHub**
+  *https://ed.team/cursos/github
+  
+- **Docker**
   *
 
-## **Prompt Ingineering y Vibe Coding**
+
+## **Introducción a los Lenguajes para Programación**
+
+- **Lenguaje de marcado HTML(Lenguaje de Marcado de Hipertexto)**
+  * Buenas prácticas en HTML (anaxia)
+    <!--Elaborado en claude.ai y gemini.google.com-->
+  * 
+ 
+- **Lenguaje de diseño gráfico CSS(Hojas de Estilo en Cascada)**
+  * Buenas prácticas en CSS (anaxia)
+    <!--Elaborado en claude.ai y gemini.google.com-->
+  * 
+ 
+- **Introducción a JavaScript**
+  * Buenas prácticas en JavaScript (anaxia)
+    <!--Elaborado en claude.ai y gemini.google.com-->
+  * 
+ 
+- **Introducción a Bases de Datos**
+  * Buenas prácticas en  (anaxia)
+    <!--Elaborado en claude.ai y gemini.google.com-->
+  * 
+ 
+- **Introducción a Python**
+  * Buenas prácticas en Python (anaxia)
+    <!--Elaborado en claude.ai y gemini.google.com-->
+  * 
+ 
+- **Introducción a java**
+  * Buenas prácticas en java (anaxia)
+    <!--Elaborado en claude.ai y gemini.google.com-->
+  * 
+ 
+- **Introducción a **
+- **Introducción a **
+- **Introducción a **
+
+
+## **Herramientas para la Programación con IA**
+
+- **Ghostty**
+  *
+- **Tmux**
+  *
+- **OpenCode**
+  *
+- **Pi**
+  *
+- **Gentle-ai**
+  *
+- **OpenClaw**
+  *
+- **AionUi**
+  *
+
+## **Filosofías para Programación con IA**
+
 - **Prompt Engineering**
   *
 - **Vibe Coding**
   *
+- **SDD**
+  *
+- **Harnes Engineering**
+  *
 
   
-## **Entornos y Agentes de Desarrollo con IA**
+## **Herramientas Complementarias para la Programación con IA**
 
-- **Claude Code**
-- **OpenCode**
-- **Codex**
-- **Antigravity**
 - **Cursor**
+  *
+- **Claude Code**
+  *
+- **Antigravity**
+  *
+- **Codex**
+  *
 - **GitHub Copilot**
+  *
 
 
-## **Harness Engineering**
 
