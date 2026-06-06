@@ -1,4 +1,4 @@
-# Programación-con-ai
+# Programación-con-IA
 
 ## **Introducción a la Programación**
 
