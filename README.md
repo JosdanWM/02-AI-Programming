@@ -2,14 +2,14 @@
 
 ## **Introducción a la Programación**
 
-- **Cómo crear y configurar tu cuenta de GitHub en 2026 (YT)** #
+- **01. Cómo crear y configurar tu cuenta de GitHub en 2026 (YT)** #
   * https://www.youtube.com/watch?v=JaKUEnVkAmY&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=3
   
-- **Instalar y personalizar VS Code (YT)** #
+- **02. Instalar y personalizar VSCode (YT)** #
   * https://www.youtube.com/watch?v=MYSCyxGYOGs&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=2
   * https://www.youtube.com/watch?v=ZfYN7h1sIP8&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=1
  
-- **Conceptos Básicos de Programación**
+- **03. Conceptos Básicos de Programación**
   * https://www.youtube.com/watch?v=a7eznAouNak&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=1
   * https://www.youtube.com/watch?v=kZfuJvkdcHU&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=2
   * https://www.youtube.com/watch?v=RaWfeVgkWbE&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=3
@@ -21,15 +21,15 @@
   * https://www.youtube.com/watch?v=XCHKaSNjoak&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=9
   * https://www.youtube.com/watch?v=KV0H3pWmU78&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=10
   
-- **Curso de PROGRAMACIÓN desde Cero 2026 - Fundamentos de Programación y Lógica (YT)**...
+- **04. Curso de PROGRAMACIÓN desde Cero 2026 - Fundamentos de Programación y Lógica (YT)**...
   * https://www.youtube.com/watch?v=V9D67se8FIk&list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD
   
-- **Algoritmos y Resolución de Problemas (YT)**....
+- **05. Algoritmos y Resolución de Problemas (YT)**....
   * https://www.youtube.com/watch?v=H5L66Lx_TWU&list=PLmwzInHO45X5Ikb4Pq7jKxRIBsLNiLORQ&index=1
   * https://www.youtube.com/watch?v=NrOxXI72cIc
   * https://www.youtube.com/watch?v=zPm31kb7NRs
   
-- **Algoritmos, Pseudocódigo Diagramas de Flujo (YT)**....
+- **06. Algoritmos, Pseudocódigo Diagramas de Flujo (YT)**....
   * https://www.youtube.com/watch?v=UD240-OEbVY&list=PLIktyeQTfpXAZP72g2_YDh0bg7_LISVmJ&index=3
   * https://www.youtube.com/watch?v=Tu9OQSff-gw&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=1
   * https://www.youtube.com/watch?v=NJavXHU5MW8&list=PLIktyeQTfpXAZP72g2_YDh0bg7_LISVmJ&index=5
@@ -42,32 +42,32 @@
   * https://www.youtube.com/watch?v=1frV9cIgAow&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=7
   * https://www.youtube.com/watch?v=NXDLOuIYdGo&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=8
 
-- **Programación para principiantes**
+- **07. Programación para principiantes**
   * https://www.udemy.com/course/programacion-para-principiantes
   * 
-- **Introducción a HTML, CSS, JavaScript** ..
+- **08. Introducción a HTML, CSS, JavaScript** ..
   * https://www.udemy.com/course/curso-de-programacion-para-novatos-el-mas-facil-de-entender/
  
 
 ## **Introducción a la Programación con IA**
 
-- **Curso Gratis de Programación Básica (Pz)**##
+- **01. Curso Gratis de Programación Básica (Pz)**##
   * https://platzi.com/cursos/programacion-basica/
  
-- **Curso: Programación desde cero con Inteligencia Artificial (Ed)**##
+- **02. Curso: Programación desde cero con Inteligencia Artificial (Ed)**##
   * https://www.youtube.com/watch?v=8b6KecIzcQA&t=2513s
   * https://ed.team/cursos/programacion
 
 
 ## **Fundamentos para la Programación con IA**
 
-- **Fundamentos de Ingeniería de Software**
+- **01. Fundamentos de Ingeniería de Software**
   * https://platzi.com/cursos/ingenieria/
   * https://ed.team/cursos/tecnologia-computadoras
   * https://ed.team/cursos/tecnologia-programacion-2022
   * https://ed.team/cursos/web
   * 
-- **Lógica de programación**
+- **02. Lógica de programación**
   * https://ed.team/cursos/logica
   * https://ed.team/cursos/algoritmos
   * https://ed.team/cursos/paradigmas
@@ -75,7 +75,7 @@
   * https://ed.team/cursos/patrones-ii
   * https://ed.team/cursos/patrones-iii
   *     
-- **Conceptos de Programación**
+- **03. Conceptos de Programación**
   * Conceptos Básicos de Programación (anaxia)....
     <!--Elaborado en claude.ai y gemini.google.com-->
   * Conceptos Básicos de Programación Web (anaxia)....
@@ -85,36 +85,37 @@
 
 
 ## **Herramienta de Programación**
-- **VS Code**
-  * 
-- **Linux**
+- **01. Linux**
   * https://ed.team/cursos/terminal-linux?source=web&section=chatEDT
   * https://ed.team/cursos/linux?source=web&section=chatEDT
   * 
-- **Git**
+- **02. VS Code**
+  * 
+
+- **03. Git**
   * https://ed.team/cursos/git
   * 
-- **GitHub**
+- **04. GitHub**
   * https://ed.team/cursos/github
   * 
-- **Docker**
+- **05. Docker**
   * 
 
 
 ## **Introducción a los Lenguajes para Programación**
 
-- **Lenguaje de marcado HTML(Lenguaje de Marcado de Hipertexto)**
+- **01. Lenguaje de marcado HTML(Lenguaje de Marcado de Hipertexto)**
   * Buenas prácticas en HTML (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
   * https://ed.team/cursos/html
   * 
-- **Lenguaje de diseño gráfico CSS(Hojas de Estilo en Cascada)**
+- **02. Lenguaje de diseño gráfico CSS(Hojas de Estilo en Cascada)**
   * Buenas prácticas en CSS (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
   * https://ed.team/cursos/css
   * 
   * https://ed.team/cursos/chrome-devtools
-- **Introducción a JavaScript**
+- **03. Introducción a JavaScript**
   * Buenas prácticas en JavaScript (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
   * https://ed.team/cursos/javascript
