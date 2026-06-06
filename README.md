@@ -85,6 +85,7 @@
 
 
 ## **Herramienta de Programación**
+
 - **01. Linux**
   * https://ed.team/cursos/terminal-linux?source=web&section=chatEDT
   * https://ed.team/cursos/linux?source=web&section=chatEDT
@@ -177,8 +178,11 @@
   * 
 
 ## **Filosofías para Programación con IA**
+
 - **Fundamentos de IA**
   * https://cursor.com/es/learn/how-ai-models-work
+  * https://www.youtube.com/watch?v=LHyjYJm8i2Y&t=366s
+  * 
 - **Agentes de Código**
   * https://cursor.com/es/learn/how-ai-models-work
 - **Prompt Engineering**
