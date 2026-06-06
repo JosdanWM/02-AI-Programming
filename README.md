@@ -150,7 +150,10 @@
   *
 
 ## **Filosofías para Programación con IA**
-
+- **Fundamentos de IA**
+  * https://cursor.com/es/learn/how-ai-models-work
+- **Agentes de Código**
+  * https://cursor.com/es/learn/how-ai-models-work
 - **Prompt Engineering**
   *
 - **Vibe Coding**
@@ -166,7 +169,7 @@
 - **Cursor**
   *
 - **Claude Code**
-  *
+  * https://cursos.devtalles.com/courses/take/claude-code-guia-completa/lessons/74802305-como-funcionara-el-curso
 - **Antigravity**
   *
 - **Codex**
