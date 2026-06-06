@@ -42,6 +42,9 @@
   * https://www.youtube.com/watch?v=1frV9cIgAow&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=7
   * https://www.youtube.com/watch?v=NXDLOuIYdGo&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=8
 
+- **Programación para principiantes**
+  * https://www.udemy.com/course/programacion-para-principiantes
+  * 
 - **Introducción a HTML, CSS, JavaScript** ..
   * https://www.udemy.com/course/curso-de-programacion-para-novatos-el-mas-facil-de-entender/
  
@@ -62,7 +65,8 @@
   * https://platzi.com/cursos/ingenieria/
   * https://ed.team/cursos/tecnologia-computadoras
   * https://ed.team/cursos/tecnologia-programacion-2022
-
+  * https://ed.team/cursos/web
+  * 
 - **Lógica de programación**
   * https://ed.team/cursos/logica
   * https://ed.team/cursos/algoritmos
@@ -70,7 +74,7 @@
   * https://ed.team/cursos/patrones-i
   * https://ed.team/cursos/patrones-ii
   * https://ed.team/cursos/patrones-iii
-    
+  *     
 - **Conceptos de Programación**
   * Conceptos Básicos de Programación (anaxia)....
     <!--Elaborado en claude.ai y gemini.google.com-->
@@ -82,17 +86,19 @@
 
 ## **Herramienta de Programación**
 - **VS Code**
-  *
-- **Bash**
-  *
+  * 
+- **Linux**
+  * https://ed.team/cursos/terminal-linux?source=web&section=chatEDT
+  * https://ed.team/cursos/linux?source=web&section=chatEDT
+  * 
 - **Git**
   * https://ed.team/cursos/git
   * 
 - **GitHub**
-  *https://ed.team/cursos/github
-  
+  * https://ed.team/cursos/github
+  * 
 - **Docker**
-  *
+  * 
 
 
 ## **Introducción a los Lenguajes para Programación**
@@ -100,32 +106,48 @@
 - **Lenguaje de marcado HTML(Lenguaje de Marcado de Hipertexto)**
   * Buenas prácticas en HTML (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
+  * https://ed.team/cursos/html
   * 
- 
 - **Lenguaje de diseño gráfico CSS(Hojas de Estilo en Cascada)**
   * Buenas prácticas en CSS (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
+  * https://ed.team/cursos/css
   * 
- 
+  * https://ed.team/cursos/chrome-devtools
 - **Introducción a JavaScript**
   * Buenas prácticas en JavaScript (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
+  * https://ed.team/cursos/javascript
   * 
- 
+- **Framework Astro.js**
+  * https://ed.team/cursos/astro
+  * 
+- **Mi Primera página Web**
+  * https://ed.team/cursos/pagina-web
+  * 
+- **Framework Angular**
+  * 
+  * 
 - **Introducción a Bases de Datos**
   * Buenas prácticas en  (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * 
+  * https://ed.team/cursos/sql
+  * https://ed.team/cursos/database-design
+  * https://ed.team/cursos/mysql
+  * https://ed.team/cursos/postgresql
+  * https://ed.team/cursos/sql-server
+  * https://ed.team/cursos/oracle
  
 - **Introducción a Python**
   * Buenas prácticas en Python (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
+  * https://ed.team/cursos/python
   * 
  
 - **Introducción a java**
   * Buenas prácticas en java (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * 
+  * https://ed.team/cursos/java
  
 - **Introducción a **
 - **Introducción a **
@@ -135,19 +157,23 @@
 ## **Herramientas para la Programación con IA**
 
 - **Ghostty**
-  *
+  * 
 - **Tmux**
-  *
+  * 
+- **Vim y NeoVim**
+  * https://ed.team/cursos/vim?source=web&section=chatEDT
+  * 
 - **OpenCode**
-  *
+  * https://ed.team/cursos/opencode
+  * 
 - **Pi**
-  *
+  * 
 - **Gentle-ai**
-  *
+  * 
 - **OpenClaw**
-  *
+  * 
 - **AionUi**
-  *
+  * 
 
 ## **Filosofías para Programación con IA**
 - **Fundamentos de IA**
@@ -157,25 +183,40 @@
 - **Prompt Engineering**
   *
 - **Vibe Coding**
-  *
-- **SDD**
-  *
+  * https://ed.team/cursos/vibecoding
+  *  
+- **RAG**
+  * https://ed.team/cursos/rag
+  * 
+- **MCP**
+  * https://ed.team/cursos/mcp
+  * 
+- **Skills**
+  * https://ed.team/cursos/skills-rules
+  * 
+- **Spec Driven Development (SDD)**
+  * https://ed.team/cursos/sdd
+  * 
 - **Harnes Engineering**
-  *
-
+  * 
+- 
   
 ## **Herramientas Complementarias para la Programación con IA**
 
 - **Cursor**
-  *
+  * https://ed.team/cursos/cursor
+  * 
 - **Claude Code**
+  * https://ed.team/cursos/claude
   * https://cursos.devtalles.com/courses/take/claude-code-guia-completa/lessons/74802305-como-funcionara-el-curso
+  * 
 - **Antigravity**
-  *
+  * 
 - **Codex**
-  *
+  * 
 - **GitHub Copilot**
-  *
+  * https://ed.team/cursos/github-copilot
+  * 
 
 
 
