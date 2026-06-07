@@ -82,7 +82,27 @@
     <!--Elaborado en claude.ai y gemini.google.com-->
   * Conceptos Básicos de Programación de Apps (anaxia)....
     <!--Elaborado en claude.ai y gemini.google.com-->
-
+  * Introducción a las Herramientas y Stacks Tecnológicos (anaxia)....
+    <!--Elaborado en claude.ai y gemini.google.com-->
+  * Intro a las Herramientas de Programación con IA (anaxia)....
+    <!--Elaborado en claude.ai y gemini.google.com-->
+  * Fundamentos de la programación (Leonel Peña - kindle)##
+    <!--Elaborado en claude.ai y gemini.google.com-->
+  * Buenas prácticas en programación (anaxia)....
+    <!--Elaborado en claude.ai y gemini.google.com-->
+- **04. Fundamentos de Programación**
+  * Lógica de Programación y Pensamiento Computacional (anaxia)....
+  * Fundamentos de Python - Mi primer lenguaje de Programación (anaxia)....
+  * Introducción a los Fundamentos de la Programación (anaxia)....
+  * Introducción a los Fundamentos de Programación (Ebook)....
+  * Fundamentos de Matemáticas para Programación (anaxia)....
+  * Paradigmas de Programación (anaxia)....
+  * Programación Orientada a Objetos (anaxia)....
+  * Estructuras de Datos (anaxia)....
+  * Complejidad Computacional y Notación Big O (anaxia)....
+  * Algoritmos (anaxia)....
+  * Principios de Diseño de Software (anaxia)....
+  * Patrones de Diseño (anaxia)....
 
 ## **Herramienta de Programación**
 
@@ -177,19 +197,30 @@
 - **AionUi**
   * 
 
-## **Filosofías para Programación con IA**
 
+## **Vibe Coding**
 - **Fundamentos de IA**
   * https://cursor.com/es/learn/how-ai-models-work
   * https://www.youtube.com/watch?v=LHyjYJm8i2Y&t=366s
   * 
-- **Agentes de Código**
-  * https://cursor.com/es/learn/how-ai-models-work
-- **Prompt Engineering**
-  *
+- **Prompt Engineering para Programación**
+  * 
+  * Prompt Engineering - HM ....
+  * Fundamentos del prompt engineering
+  * Fundamentos de prompt engineering en programación
+- Fundamentos del Vibe Coding
+  * Conceptos fundamentales de Vibe Coding
+  * Fundamentos del Desarrollo Web para Vibe Coding
+  * Fundamentos del Desarrollo Web para Vibe Coding (U)....
 - **Vibe Coding**
   * https://ed.team/cursos/vibecoding
-  *  
+  * 
+
+
+## **Filosofías para Programación con IA**
+
+- **Agentes de Código**
+  * https://cursor.com/es/learn/how-ai-models-work
 - **RAG**
   * https://ed.team/cursos/rag
   * 
@@ -223,5 +254,11 @@
   * https://ed.team/cursos/github-copilot
   * 
 
+
+---
+* ... : Curso en proceso
+* .# : Curso completado a nivel teórico
+* .## : Curso completado a nivel práctico y examen
+---
 
 
