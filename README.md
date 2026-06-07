@@ -66,6 +66,9 @@
   * https://ed.team/cursos/tecnologia-computadoras
   * https://ed.team/cursos/tecnologia-programacion-2022
   * https://ed.team/cursos/web
+  * https://academia.holamundo.io/courses/computing-part-1
+  * https://academia.holamundo.io/courses/introduccion-a-la-computacion-parte-2-software
+  * Introducción a la computación parte 3 - Nivelación y preparación de ambiente
   * 
 - **02. Lógica de programación**
   * https://ed.team/cursos/logica
@@ -198,14 +201,15 @@
   * 
 
 
-## **Vibe Coding**
+## **Programación con IA**
+
 - **Fundamentos de IA**
   * https://cursor.com/es/learn/how-ai-models-work
   * https://www.youtube.com/watch?v=LHyjYJm8i2Y&t=366s
   * 
 - **Prompt Engineering para Programación**
+  * https://academia.holamundo.io/courses/prompt-engineering
   * 
-  * Prompt Engineering - HM ....
   * Fundamentos del prompt engineering
   * Fundamentos de prompt engineering en programación
 - Fundamentos del Vibe Coding
@@ -214,6 +218,9 @@
   * Fundamentos del Desarrollo Web para Vibe Coding (U)....
 - **Vibe Coding**
   * https://ed.team/cursos/vibecoding
+  * 
+- **Ultimate AI, desarrollo de software asistido por inteligencia artificial**
+  * https://academia.holamundo.io/courses/take/ultimate-ai/lessons/74062767-02-requisitos
   * 
 
 
