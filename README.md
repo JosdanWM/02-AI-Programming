@@ -168,9 +168,7 @@
   * 
 - **Entorno de Ejecución Node.js**
   * 
-
-- ****
-  * - **Introducción a Bases de Datos**
+- **Introducción a Bases de Datos**
   * Buenas prácticas en  (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
   * https://ed.team/cursos/sql
