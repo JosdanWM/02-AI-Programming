@@ -22,6 +22,7 @@
   * https://www.youtube.com/watch?v=KV0H3pWmU78&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=10
   
 - **04. Fundamentos y Lógica de Programación (YT)**...
+  * https://www.youtube.com/watch?v=RxO0XGjoPJA&t=457s
   * https://www.youtube.com/watch?v=V9D67se8FIk&list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD
   * https://www.youtube.com/watch?v=tIS-1PmHAkE&t=2883s
   
