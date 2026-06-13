@@ -2,10 +2,10 @@
 
 ## **Introducción a la Programación**
 
-- **01. Cómo crear y configurar tu cuenta de GitHub en 2026 (YT)** #
+- **01. Cómo crear y configurar tu cuenta de GitHub en 2026** #
   * https://www.youtube.com/watch?v=JaKUEnVkAmY&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=3 ##
   
-- **02. Instalar y personalizar VSCode (YT)** #
+- **02. Instalar y personalizar VSCode** #
   * https://www.youtube.com/watch?v=MYSCyxGYOGs&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=2 ##
   * https://www.youtube.com/watch?v=ZfYN7h1sIP8&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=1 ##
  
@@ -21,17 +21,17 @@
   * https://www.youtube.com/watch?v=XCHKaSNjoak&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=9
   * https://www.youtube.com/watch?v=KV0H3pWmU78&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=10
   
-- **04. Fundamentos y Lógica de Programación (YT)**...
+- **04. Fundamentos y Lógica de Programación**...
   * https://www.youtube.com/watch?v=RxO0XGjoPJA&t=457s
   * https://www.youtube.com/watch?v=V9D67se8FIk&list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD
   * https://www.youtube.com/watch?v=tIS-1PmHAkE&t=2883s
   
-- **05. Algoritmos y Resolución de Problemas (YT)**....
+- **05. Algoritmos y Resolución de Problemas**....
   * https://www.youtube.com/watch?v=H5L66Lx_TWU&list=PLmwzInHO45X5Ikb4Pq7jKxRIBsLNiLORQ&index=1
   * https://www.youtube.com/watch?v=NrOxXI72cIc
   * https://www.youtube.com/watch?v=zPm31kb7NRs
   
-- **06. Algoritmos, Pseudocódigo Diagramas de Flujo (YT)**....
+- **06. Algoritmos, Pseudocódigo Diagramas de Flujo**....
   * https://www.youtube.com/watch?v=UD240-OEbVY&list=PLIktyeQTfpXAZP72g2_YDh0bg7_LISVmJ&index=3
   * https://www.youtube.com/watch?v=Tu9OQSff-gw&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=1
   * https://www.youtube.com/watch?v=NJavXHU5MW8&list=PLIktyeQTfpXAZP72g2_YDh0bg7_LISVmJ&index=5
@@ -43,6 +43,7 @@
   * https://www.youtube.com/watch?v=jt-2IAUtmFE&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=6
   * https://www.youtube.com/watch?v=1frV9cIgAow&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=7
   * https://www.youtube.com/watch?v=NXDLOuIYdGo&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=8
+  * https://todocodeacademy.com/course/introduccion-a-la-programacion/...
 
 - **07. Programación para principiantes**
   * https://www.udemy.com/course/programacion-para-principiantes
