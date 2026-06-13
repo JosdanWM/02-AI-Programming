@@ -43,7 +43,7 @@
   * https://www.youtube.com/watch?v=RxO0XGjoPJA&t=457s
   * https://www.youtube.com/watch?v=V9D67se8FIk&list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD
   * https://www.youtube.com/watch?v=tIS-1PmHAkE&t=2883s
-  * https://todocodeacademy.com/course/introduccion-a-la-programacion/...
+  * https://todocodeacademy.com/course/introduccion-a-la-programacion/ ##
 
 - **07. Programación para principiantes**
   * https://www.udemy.com/course/universidad-de-logica-de-programacion-python-java-javascript-c-pseint
