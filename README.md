@@ -3,7 +3,6 @@
 ## **Introducción a la Programación**
 - **El ROADMAP COMPLETO para ser SOFTWARE DEVELOPER en 2026**
   * [ ] https://www.youtube.com/watch?v=QxECHGs2UUw&t=810s ...
-  * [ ] https://www.youtube.com/watch?v=cIcpq2smW-w&t=143s ...
   
 - **01. Cómo crear y configurar tu cuenta de GitHub en 2026** ##
   * [ ] https://www.youtube.com/watch?v=JaKUEnVkAmY&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=3
@@ -88,7 +87,8 @@
   * https://ed.team/cursos/patrones-i
   * https://ed.team/cursos/patrones-ii
   * https://ed.team/cursos/patrones-iii
-  *     
+  * [ ] https://www.youtube.com/watch?v=cIcpq2smW-w&t=143s ...
+  * https://www.youtube.com/watch?v=dbLQ_0Ivg4U&t=200s
 - **03. Conceptos de Programación**
   * Conceptos Básicos de Programación (anaxia)....
     <!--Elaborado en claude.ai y gemini.google.com-->
