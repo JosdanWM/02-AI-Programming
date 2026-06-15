@@ -3,6 +3,7 @@
 ## **Introducción a la Programación**
 - **El ROADMAP COMPLETO para ser SOFTWARE DEVELOPER en 2026**
   * [ ] https://www.youtube.com/watch?v=QxECHGs2UUw&t=810s ...
+  * [ ] https://www.youtube.com/watch?v=cIcpq2smW-w&t=143s ...
   
 - **01. Cómo crear y configurar tu cuenta de GitHub en 2026** ##
   * [ ] https://www.youtube.com/watch?v=JaKUEnVkAmY&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=3
