@@ -1,7 +1,8 @@
 # AI Programming
 
 ## **Introducción a la Programación**
-- **El ROADMAP COMPLETO para ser SOFTWARE DEVELOPER en 2026**
+
+- **Roadmap completo para ser SOFTWARE DEVELOPER en 2026**
   * [ ] https://www.youtube.com/watch?v=QxECHGs2UUw&t=810s ...
   
 - **01. Cómo crear y configurar tu cuenta de GitHub en 2026** ##
@@ -60,250 +61,270 @@
 ## **Introducción a la Programación con IA**
 
 - **01. Programación Básica con IA**##
-  * https://www.youtube.com/watch?v=8b6KecIzcQA&t=2513s
-  * https://ed.team/cursos/programacion
-  * https://platzi.com/cursos/programacion-basica/
-  * https://ed.team/cursos/fullstack-ia
+  * [ ] https://www.youtube.com/watch?v=8b6KecIzcQA&t=2513s
+  * [ ] https://ed.team/cursos/programacion
+  * [ ] https://platzi.com/cursos/programacion-basica/
+  * [ ] https://ed.team/cursos/fullstack-ia
  
 - **03. Mentalidad del Programador con IA**
-  * https://www.youtube.com/watch?v=Uc9OntGxn9A&t=92s #
-  * 72b709d5-957c-49e2-8294-8e4a995d5c22 
+  * [ ] https://www.youtube.com/watch?v=Uc9OntGxn9A&t=92s #
+  * [ ] 72b709d5-957c-49e2-8294-8e4a995d5c22 
 
 ## **Fundamentos para la Programación con IA**
 
 - **01. Fundamentos de Ingeniería de Software**
-  * https://platzi.com/cursos/ingenieria/
-  * https://ed.team/cursos/tecnologia-computadoras #
-  * https://ed.team/cursos/tecnologia-programacion-2022 #
-  * https://ed.team/cursos/web #
-  * https://academia.holamundo.io/courses/computing-part-1
-  * https://academia.holamundo.io/courses/introduccion-a-la-computacion-parte-2-software
-  * Introducción a la computación parte 3 - Nivelación y preparación de ambiente
-  * 
+  * [ ] https://platzi.com/cursos/ingenieria/
+  * [ ] https://ed.team/cursos/tecnologia-computadoras #
+  * [ ] https://ed.team/cursos/tecnologia-programacion-2022 #
+  * [ ] https://ed.team/cursos/web #
+  * [ ] https://academia.holamundo.io/courses/computing-part-1
+  * [ ] https://academia.holamundo.io/courses/introduccion-a-la-computacion-parte-2-software
+  * [ ] Introducción a la computación parte 3 - Nivelación y preparación de ambiente
+
 - **02. Lógica de programación**
-  * https://ed.team/cursos/logica
-  * https://ed.team/cursos/algoritmos
-  * https://ed.team/cursos/paradigmas
-  * https://ed.team/cursos/patrones-i
-  * https://ed.team/cursos/patrones-ii
-  * https://ed.team/cursos/patrones-iii
+  * [ ] https://ed.team/cursos/logica
+  * [ ] https://ed.team/cursos/algoritmos
+  * [ ] https://ed.team/cursos/paradigmas
+  * [ ] https://ed.team/cursos/patrones-i
+  * [ ] https://ed.team/cursos/patrones-ii
+  * [ ] https://ed.team/cursos/patrones-iii
   * [ ] https://www.youtube.com/watch?v=cIcpq2smW-w&t=143s ...
-  * https://www.youtube.com/watch?v=dbLQ_0Ivg4U&t=200s
+  * [ ] https://www.youtube.com/watch?v=dbLQ_0Ivg4U&t=200s
+
 - **03. Conceptos de Programación**
-  * Conceptos Básicos de Programación (anaxia)....
+  * [ ] Conceptos Básicos de Programación (anaxia)....
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * Conceptos Básicos de Programación Web (anaxia)....
+  * [ ] Conceptos Básicos de Programación Web (anaxia)....
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * Conceptos Básicos de Programación de Apps (anaxia)....
+  * [ ] Conceptos Básicos de Programación de Apps (anaxia)....
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * Introducción a las Herramientas y Stacks Tecnológicos (anaxia)....
+  * [ ] Introducción a las Herramientas y Stacks Tecnológicos (anaxia)....
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * Intro a las Herramientas de Programación con IA (anaxia)....
+  * [ ] Intro a las Herramientas de Programación con IA (anaxia)....
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * Fundamentos de la programación (Leonel Peña - kindle)##
+  * [ ] Fundamentos de la programación (Leonel Peña - kindle)##
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * Buenas prácticas en programación (anaxia)....
+  * [ ] Buenas prácticas en programación (anaxia)....
     <!--Elaborado en claude.ai y gemini.google.com-->
+
 - **04. Fundamentos de Programación**
-  * Lógica de Programación y Pensamiento Computacional (anaxia)....
-  * Fundamentos de Python - Mi primer lenguaje de Programación (anaxia)....
-  * Introducción a los Fundamentos de la Programación (anaxia)....
-  * Introducción a los Fundamentos de Programación (Ebook)....
-  * Fundamentos de Matemáticas para Programación (anaxia)....
-  * Paradigmas de Programación (anaxia)....
-  * Programación Orientada a Objetos (anaxia)....
-  * Estructuras de Datos (anaxia)....
-  * Complejidad Computacional y Notación Big O (anaxia)....
-  * Algoritmos (anaxia)....
-  * Principios de Diseño de Software (anaxia)....
-  * Patrones de Diseño (anaxia)....
+  * [ ] Lógica de Programación y Pensamiento Computacional (anaxia)....
+  * [ ] Fundamentos de Python - Mi primer lenguaje de Programación (anaxia)....
+  * [ ] Introducción a los Fundamentos de la Programación (anaxia)....
+  * [ ] Introducción a los Fundamentos de Programación (Ebook)....
+  * [ ] Fundamentos de Matemáticas para Programación (anaxia)....
+  * [ ] Paradigmas de Programación (anaxia)....
+  * [ ] Programación Orientada a Objetos (anaxia)....
+  * [ ] Estructuras de Datos (anaxia)....
+  * [ ] Complejidad Computacional y Notación Big O (anaxia)....
+  * [ ] Algoritmos (anaxia)....
+  * [ ] Principios de Diseño de Software (anaxia)....
+  * [ ] Patrones de Diseño (anaxia)....
 
 ## **Herramienta de Programación**
 
 - **01. Linux**
-  * https://ed.team/cursos/terminal-linux?source=web&section=chatEDT
-  * https://ed.team/cursos/linux?source=web&section=chatEDT
+  * [ ] https://ed.team/cursos/terminal-linux?source=web&section=chatEDT
+  * [ ] https://ed.team/cursos/linux?source=web&section=chatEDT
   
 - **02. VS Code**
-  *
-  * https://www.youtube.com/watch?v=Ei1y51K8jQk
+  * [ ] 
+  * [ ] https://www.youtube.com/watch?v=Ei1y51K8jQk
 
 - **03. Git**
-  * https://ed.team/cursos/git
+  * [ ] https://ed.team/cursos/git
   
 - **04. GitHub**
-  * https://ed.team/cursos/github
-  * https://academia.holamundo.io/courses/ultimate-git
+  * [ ] https://ed.team/cursos/github
+  * [ ] https://academia.holamundo.io/courses/ultimate-git
 
 - **05. GitHub Copilot**
-  * https://ed.team/cursos/github-copilot
+  * [ ] https://ed.team/cursos/github-copilot
+
 - **06. Docker**
-  *
-  * https://academia.holamundo.io/courses/ultimate-docker
+  * [ ] 
+  * [ ] https://academia.holamundo.io/courses/ultimate-docker
 
 
 ## **Introducción a los Lenguajes para Programación**
 
 - **01. Lenguaje de marcado HTML(Lenguaje de Marcado de Hipertexto)**
-  * Buenas prácticas en HTML (anaxia)
+  * [ ] Buenas prácticas en HTML (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * https://ed.team/cursos/html
-  * https://academia.holamundo.io/courses/html5-la-guia-completa
-  * https://ed.team/cursos/pagina-web?source=web&section=chatEDT
-  * 
+  * [ ] https://ed.team/cursos/html
+  * [ ] https://academia.holamundo.io/courses/html5-la-guia-completa
+  * [ ] https://ed.team/cursos/pagina-web?source=web&section=chatEDT
+
 - **02. Lenguaje de diseño gráfico CSS(Hojas de Estilo en Cascada)**
-  * Buenas prácticas en CSS (anaxia)
+  * [ ] Buenas prácticas en CSS (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * https://ed.team/cursos/css
-  * https://academia.holamundo.io/courses/css3-la-guia-completa
-  * https://ed.team/cursos/chrome-devtools
-  * 
+  * [ ] https://ed.team/cursos/css
+  * [ ] https://academia.holamundo.io/courses/css3-la-guia-completa
+  * [ ] https://ed.team/cursos/chrome-devtools
+
 - **03. JavaScript**
-  * Buenas prácticas en JavaScript (anaxia)
+  * [ ] Buenas prácticas en JavaScript (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * https://ed.team/cursos/javascript
-  * https://academia.holamundo.io/courses/ultimate-javascript
-  * 
-- **TypeScript**
-  * https://academia.holamundo.io/courses/typescript-sin-fronteras
-  * 
+  * [ ] https://ed.team/cursos/javascript
+  * [ ] https://academia.holamundo.io/courses/ultimate-javascript
+
+- **04. TypeScript**
+  * [ ] https://academia.holamundo.io/courses/typescript-sin-fronteras
+
 - **Biblioteca React**
-  * https://academia.holamundo.io/courses/ultimate-react
-  * 
+  * [ ] https://academia.holamundo.io/courses/ultimate-react
+
 - **Framework Vue.js**
-  *
+  * [ ] 
+
 - **Framework Astro.js**
-  * https://ed.team/cursos/astro
-  * 
+  * [ ] https://ed.team/cursos/astro
+
 - **Mi Primera página Web**
-  * https://ed.team/cursos/pagina-web
-  * 
+  * [ ] https://ed.team/cursos/pagina-web
+
 - **Framework Angular**
-  * 
-  * 
+  * [ ] 
+
 - **Entorno de Ejecución Node.js**
-  * 
+  * [ ] 
+
 - **Introducción a Bases de Datos**
-  * Buenas prácticas en  (anaxia)
+  * [ ] Buenas prácticas en  (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * https://ed.team/cursos/sql
-  * https://academia.holamundo.io/courses/sql-sin-fronteras
-  * https://ed.team/cursos/database-design
-  * https://ed.team/cursos/mysql
-  * https://ed.team/cursos/postgresql
-  * https://ed.team/cursos/sql-server
-  * https://ed.team/cursos/oracle
-  * 
+  * [ ] https://ed.team/cursos/sql
+  * [ ] https://academia.holamundo.io/courses/sql-sin-fronteras
+  * [ ] https://ed.team/cursos/database-design
+  * [ ] https://ed.team/cursos/mysql
+  * [ ] https://ed.team/cursos/postgresql
+  * [ ] https://ed.team/cursos/sql-server
+  * [ ] https://ed.team/cursos/oracle
+
 - **Introducción a Python**
-  * Buenas prácticas en Python (anaxia)
+  * [ ] Buenas prácticas en Python (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * https://ed.team/cursos/python
-  * https://academia.holamundo.io/courses/ultimate-python
-  * 
+  * [ ] https://ed.team/cursos/python
+  * [ ] https://academia.holamundo.io/courses/ultimate-python
+
 - **Introducción a java**
-  * Buenas prácticas en java (anaxia)
+  * [ ] Buenas prácticas en java (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
-  * https://ed.team/cursos/java
-  * https://academia.holamundo.io/courses/ultimate-java
-  * 
- 
+  * [ ] https://ed.team/cursos/java
+  * [ ] https://academia.holamundo.io/courses/ultimate-java
+
 - **Introducción a **
+  * [ ] 
+
 - **Introducción a **
+  * [ ] 
+
 - **Introducción a **
+  * [ ] 
 
 
 ## **Herramientas para la Programación con IA**
 
 - **Ghostty**
-  * 
+  * [ ] 
+
 - **Tmux**
-  * 
+  * [ ] 
+
 - **Vim y NeoVim**
-  * https://ed.team/cursos/vim?source=web&section=chatEDT
-  * 
+  * [ ] https://ed.team/cursos/vim?source=web&section=chatEDT
+
 - **OpenCode**
-  * https://ed.team/cursos/opencode
-  * 
+  * [ ] https://ed.team/cursos/opencode
+
 - **Pi**
-  * 
+  * [ ] 
+
 - **Gentle-ai**
-  * 
+  * [ ] 
+
 - **OpenClaw**
-  * 
+  * [ ] 
+
 - **AionUi**
-  * 
+  * [ ] 
 
 
 ## **Programación con IA**
 
 - **Fundamentos de IA**
-  * https://cursor.com/es/learn/how-ai-models-work
-  * https://www.youtube.com/watch?v=LHyjYJm8i2Y&t=366s
-  * 
+  * [ ] https://cursor.com/es/learn/how-ai-models-work
+  * [ ] https://www.youtube.com/watch?v=LHyjYJm8i2Y&t=366s
+
 - **Prompt Engineering para Programación**
-  * https://academia.holamundo.io/courses/prompt-engineering
-  * 
-  * Fundamentos del prompt engineering
-  * Fundamentos de prompt engineering en programación
-- Fundamentos del Vibe Coding
-  * Conceptos fundamentales de Vibe Coding
-  * Fundamentos del Desarrollo Web para Vibe Coding
-  * Fundamentos del Desarrollo Web para Vibe Coding (U)....
+  * [ ] https://academia.holamundo.io/courses/prompt-engineering
+  * [ ] 
+  * [ ] Fundamentos del prompt engineering
+  * [ ] Fundamentos de prompt engineering en programación
+
+- **Fundamentos del Vibe Coding**
+  * [ ] Conceptos fundamentales de Vibe Coding
+  * [ ] Fundamentos del Desarrollo Web para Vibe Coding
+  * ****Fundamentos del Desarrollo Web para Vibe Coding (U)....
+
 - **Vibe Coding**
-  * https://ed.team/cursos/vibecoding
-  * 
+  * [ ] https://ed.team/cursos/vibecoding
+
 - **Ultimate AI, desarrollo de software asistido por inteligencia artificial**
-  * https://academia.holamundo.io/courses/take/ultimate-ai/lessons/74062767-02-requisitos
-  * 
+  * [ ] https://academia.holamundo.io/courses/take/ultimate-ai/lessons/74062767-02-requisitos
+  * [ ] 
 
 
 ## **Filosofías para Programación con IA**
 
 - **Agentes de Código**
-  * https://cursor.com/es/learn/how-ai-models-work
+  * [ ] https://cursor.com/es/learn/how-ai-models-work
+
 - **RAG**
-  * https://ed.team/cursos/rag
-  * 
+  * [ ] https://ed.team/cursos/rag
+
 - **MCP**
-  * https://ed.team/cursos/mcp
-  * 
+  * [ ] https://ed.team/cursos/mcp
+
 - **Skills**
-  * https://ed.team/cursos/skills-rules
-  * 
+  * [ ] https://ed.team/cursos/skills-rules
+
 - **Spec Driven Development (SDD)**
-  * https://ed.team/cursos/sdd
-  * 
+  * [ ] https://ed.team/cursos/sdd
+
 - **Harnes Engineering**
-  * 
+  * [ ] 
+
 - 
   
 ## **Herramientas Complementarias para la Programación con IA**
 
 - **Claude**
-  * https://anthropic.skilljar.com/claude-101
+  * [ ] https://anthropic.skilljar.com/claude-101
   * 
 
 - **Cursor**
-  * https://ed.team/cursos/cursor
+  * [ ] https://ed.team/cursos/cursor
   *
   
 - **Claude Code**
-  * https://ed.team/cursos/claude
-  * https://cursos.devtalles.com/courses/take/claude-code-guia-completa/lessons/74802305-como-funcionara-el-curso
-  * 
+  * [ ] https://ed.team/cursos/claude
+  * [ ] https://cursos.devtalles.com/courses/take/claude-code-guia-completa/lessons/74802305-como-funcionara-el-curso
+
 - **Antigravity**
-  * 
+  * [ ] 
+
 - **Codex**
-  * 
+  * [ ] 
+
 - **GitHub Copilot**
-  * https://ed.team/cursos/github-copilot
-  * 
+  * [ ] https://ed.team/cursos/github-copilot
+  * [ ] 
 
 
 ---
 * ... : Curso en proceso
 * .# : Curso completado a nivel teórico
-* .## : Curso completado a nivel práctico y examen
+* [X] : Curso completado a nivel práctico y examen
 ---
 
 
