@@ -320,6 +320,12 @@
   * [ ] https://ed.team/cursos/github-copilot
   * [ ] 
 
+## **Crear y mantener tu Perfil Personal**
+- **Linkedin**
+  * [ ] https://www.skool.com/devaccelerator-premium/classroom/b0e03533?md=1594daa614af4d5c845f59ac9cfe1196
+  * [ ] https://www.youtube.com/watch?v=NUaHOsvarqE&t=29s
+  * [ ] 
+
 
 ---
 * ... : Curso en proceso
