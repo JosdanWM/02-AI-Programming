@@ -2,13 +2,11 @@
 
 ## **Introducción a la Programación**
 
-- **Roadmap completo para ser SOFTWARE DEVELOPER en 2026**
+- **01. Roadmap completo para ser SOFTWARE DEVELOPER en 2026**
   * [ ] https://www.youtube.com/watch?v=QxECHGs2UUw&t=810s ...
   
-- **01. Cómo crear y configurar tu cuenta de GitHub en 2026** ##
+- **02. VS Code y GitHub en 2026** ##
   * [ ] https://www.youtube.com/watch?v=JaKUEnVkAmY&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=3
-  
-- **02. Instalar y personalizar VSCode** ##
   * [x] https://www.youtube.com/watch?v=MYSCyxGYOGs&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=2
   * [x] https://www.youtube.com/watch?v=ZfYN7h1sIP8&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=1
  
