@@ -122,6 +122,7 @@
 ## **Herramienta de Programación**
 
 - **01. Linux**
+  * [ ] Gestores Paquetes en bash
   * [ ] https://ed.team/cursos/terminal-linux?source=web&section=chatEDT
   * [ ] https://ed.team/cursos/linux?source=web&section=chatEDT
   
