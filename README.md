@@ -3,7 +3,7 @@
 ## **Introducción a la Programación**
 
 - **01. Roadmap completo para ser SOFTWARE DEVELOPER en 2026**
-  * [ ] https://www.youtube.com/watch?v=QxECHGs2UUw&t=810s ...
+  * [x] https://www.youtube.com/watch?v=QxECHGs2UUw&t=810s
   
 - **02. VS Code y GitHub en 2026** ##
   * [ ] https://www.youtube.com/watch?v=JaKUEnVkAmY&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=3
