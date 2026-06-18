@@ -302,6 +302,7 @@
   * 
 
 - **Cursor**
+  * [ ] https://www.youtube.com/watch?v=csIAc8rwooc
   * [ ] https://ed.team/cursos/cursor
   *
   
