@@ -1,6 +1,11 @@
-# AI Programming
+# **AI Programing**
 
-## **Introducción a la Programación**
+---
+**IMPORTANTE**: Este programa (temario) para aprender programación no es un programa oficial de ninguna institución en particular, mas bien es solo un temario adaptado a mis necesidades de aprendizaje personal.
+
+---
+
+## **I. Introducción a la Programación**
 
 - **01. Roadmap completo para ser SOFTWARE DEVELOPER en 2026**
   * [x] https://www.youtube.com/watch?v=QxECHGs2UUw&t=810s
@@ -56,7 +61,7 @@
   * [ ] https://www.udemy.com/course/curso-de-programacion-para-novatos-el-mas-facil-de-entender/
   * [ ] https://www.udemy.com/course/programacion-desarrollo-web/?couponCode=PMNVD3025
 
-## **Introducción a la Programación con IA**
+## **II. Introducción a la Programación con IA**
 
 - **01. Programación Básica con IA**##
   * [ ] https://www.youtube.com/watch?v=8b6KecIzcQA&t=2513s
@@ -68,7 +73,7 @@
   * [ ] https://www.youtube.com/watch?v=Uc9OntGxn9A&t=92s #
   * [ ] 72b709d5-957c-49e2-8294-8e4a995d5c22 
 
-## **Fundamentos para la Programación con IA**
+## **III. Fundamentos para la Programación con IA**
 
 - **01. Fundamentos de Ingeniería de Software**
   * [ ] https://platzi.com/cursos/ingenieria/
@@ -119,7 +124,7 @@
   * [ ] Principios de Diseño de Software (anaxia)....
   * [ ] Patrones de Diseño (anaxia)....
 
-## **Herramienta de Programación**
+## **IV. Herramienta de Programación**
 
 - **01. Linux**
   * [ ] Gestores Paquetes en bash
@@ -145,7 +150,7 @@
   * [ ] https://academia.holamundo.io/courses/ultimate-docker
 
 
-## **Introducción a los Lenguajes para Programación**
+## **V. Introducción a los Lenguajes para Programación**
 
 - **01. Lenguaje de marcado HTML(Lenguaje de Marcado de Hipertexto)**
   * [ ] Buenas prácticas en HTML (anaxia)
@@ -221,7 +226,7 @@
   * [ ] 
 
 
-## **Herramientas para la Programación con IA**
+## **VI. Herramientas para la Programación con IA**
 
 - **Ghostty**
   * [ ] 
@@ -248,7 +253,7 @@
   * [ ] 
 
 
-## **Programación con IA**
+## **VII. Programación con IA**
 
 - **Fundamentos de IA**
   * [ ] https://cursor.com/es/learn/how-ai-models-work
@@ -273,7 +278,7 @@
   * [ ] 
 
 
-## **Filosofías para Programación con IA**
+## **VIII. Filosofías para Programación con IA**
 
 - **Agentes de Código**
   * [ ] https://cursor.com/es/learn/how-ai-models-work
@@ -295,7 +300,7 @@
 
 - 
   
-## **Herramientas Complementarias para la Programación con IA**
+## **IX. IDE y Agentes para la Programación con IA**
 
 - **Claude**
   * [ ] https://anthropic.skilljar.com/claude-101
@@ -320,7 +325,7 @@
   * [ ] https://ed.team/cursos/github-copilot
   * [ ] 
 
-## **Crear y mantener tu Perfil Personal**
+## **X. Crear y mantener tu Perfil Personal**
 - **Linkedin**
   * [ ] https://www.skool.com/devaccelerator-premium/classroom/b0e03533?md=1594daa614af4d5c845f59ac9cfe1196
   * [ ] https://www.youtube.com/watch?v=NUaHOsvarqE&t=29s
