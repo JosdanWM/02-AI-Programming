@@ -10,7 +10,7 @@
 - **01. Roadmap completo para ser SOFTWARE DEVELOPER en 2026**
   * [x] https://www.youtube.com/watch?v=QxECHGs2UUw&t=810s
   
-- **02. VS Code y GitHub en 2026** ##
+- **02. Introducción a VS Code y GitHub en 2026** ##
   * [x] https://www.youtube.com/watch?v=JaKUEnVkAmY&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=3
   * [x] https://www.youtube.com/watch?v=MYSCyxGYOGs&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=2
   * [x] https://www.youtube.com/watch?v=ZfYN7h1sIP8&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=1
