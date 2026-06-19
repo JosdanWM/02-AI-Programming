@@ -11,9 +11,9 @@
   * [x] https://www.youtube.com/watch?v=QxECHGs2UUw&t=810s
   
 - **02. Introducción a VS Code y GitHub en 2026** ##
-  * [x] https://www.youtube.com/watch?v=JaKUEnVkAmY&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=3
-  * [x] https://www.youtube.com/watch?v=MYSCyxGYOGs&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=2
-  * [x] https://www.youtube.com/watch?v=ZfYN7h1sIP8&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=1
+  * [ ] https://www.youtube.com/watch?v=JaKUEnVkAmY&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=3
+  * [ ] https://www.youtube.com/watch?v=MYSCyxGYOGs&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=2
+  * [ ] https://www.youtube.com/watch?v=ZfYN7h1sIP8&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=1
  
 - **03. Conceptos Básicos de Programación**
   * [ ] https://www.youtube.com/watch?v=a7eznAouNak&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=1
